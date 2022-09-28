@@ -4,6 +4,10 @@ body {
     margin: auto;
     
 }
+.dark-mode {
+    background-color: black;
+    color: white;
+}
 .container-fluid {
     
     margin: auto;

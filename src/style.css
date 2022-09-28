@@ -1,14 +1,21 @@
 body {
+    
     width: 500px;
-    text-align: center;
     margin: auto;
     
 }
 .container-fluid {
-    text-align: center;
+    
     margin: auto;
+}
+.kezdo {
+    text-align: center;
 }
 .row {
     margin: auto;
-    text-align: center;
+    
+}
+.col-md-12 {
+    padding: 10px;
+    margin: auto;
 }

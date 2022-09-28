@@ -1,1 +1,14 @@
-
+body {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    
+}
+.container-fluid {
+    text-align: center;
+    margin: auto;
+}
+.row {
+    margin: auto;
+    text-align: center;
+}
